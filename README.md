@@ -12,10 +12,10 @@
 - [&check;] Stampiamo in console i risultati e verifichiamo di ricevere i dati correttamente.
   ![alt text](/public/Screenshot%202024-08-01%20173054.png)
 
-### Milestone 5
+### Milestone 5 &check;
 
 - [&check;] Creiamo un nuovo componente ProjectCard, che corrisponde ad una card per visualizzare un progetto. Utilizziamo questo componente per visualizzare tutti i progetti ricevuti tramite API.
 
-### Bonus:
+### Bonus: &check;
 
-- Gestire la paginazione dei risultati
+- [&check;] Gestire la paginazione dei risultati
