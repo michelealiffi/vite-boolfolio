@@ -42,11 +42,11 @@ export default {
 
 <template>
   <div id="app">
-    <h1>Projects</h1>
-    <div v-if="projects.data">
+    <h1 class="text-center">Projects</h1>
+    <div class="text-center" v-if="projects.data">
       <ProjectCard v-for="project in projects.data" :key="project.id" :project="project" />
-      <button @click="prevPage" :disabled="!projects.prev_page_url">Previous</button>
-      <button @click="nextPage" :disabled="!projects.next_page_url">Next</button>
+      <button class="btn mx-2" @click="prevPage" :disabled="!projects.prev_page_url">Previous</button>
+      <button class="btn mx-2" @click="nextPage" :disabled="!projects.next_page_url">Next</button>
     </div>
   </div>
 </template>
