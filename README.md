@@ -19,3 +19,17 @@
 ### Bonus: &check;
 
 - [&check;] Gestire la paginazione dei risultati
+
+### New Task: &check;
+
+- [&check;] aggiungere una pagina di dettaglio di progetto (frontend)
+- [&check;] aggiungere sistema di paginazione (frontend)
+- [&check;] La pagina di dettaglio dovrà avere tutte le informazioni del progetto e le informazioni relazionate.
+
+### Bonus 2:
+
+- [&check;] Aggiungere campi e sistema di filtro sul backend (in draft, in evidenza)
+- [&check;] Aggiungere sistema di filtro sul frontend (in evidenza), mostrando i relativi progetti in homepage
+- [&check;] Aggiungere un campo di ricerca per titolo (frontend / backend)
+- Creazione di un nuovo progetto da frontend (base)
+- Creazione di un nuovo progetto da frontend con caricamento immagine.

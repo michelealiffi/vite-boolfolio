@@ -13,6 +13,7 @@
     <div class="project-card">
       <h2>{{ project.name }}</h2>
       <p>{{ project.description }}</p>
+      <router-link :to="`/projects/${project.id}`">View Details</router-link>
     </div>
 </template>
   
